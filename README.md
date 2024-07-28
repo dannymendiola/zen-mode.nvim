@@ -2,7 +2,9 @@
 
 Distraction-free coding for Neovim >= 0.5
 
-[Check out the upstream](https://github.com/folke/zen-mode.nvim)
+### ⚠️ Archived!
+
+The issue this fork aimed to fix has been resolved in the [upstream repository](https://github.com/folke/zen-mode.nvim) -- use that instead
 
 ![image](https://user-images.githubusercontent.com/292349/118454007-b7d8c900-b6ac-11eb-8263-015a8d929644.png)
 
